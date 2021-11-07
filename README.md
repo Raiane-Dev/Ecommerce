@@ -6,7 +6,7 @@
 <ul>
 <li>
   <strong>Languages: </strong><br />
-  <i>PHP e SQL.</i>
+  <i>PHP, JavaScript e SQL.</i>
  </li>
 
 <li>
